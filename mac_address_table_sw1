@@ -1,0 +1,38 @@
+[
+    {
+        "active": true,
+        "interface": "Gi3/0",
+        "last_move": -1.0,
+        "mac": "0C:FF:FE:E4:6B:0C",
+        "moves": -1,
+        "static": false,
+        "vlan": 1
+    },
+    {
+        "active": true,
+        "interface": "Gi3/1",
+        "last_move": -1.0,
+        "mac": "0C:FF:FE:E4:6B:0D",
+        "moves": -1,
+        "static": false,
+        "vlan": 1
+    },
+    {
+        "active": true,
+        "interface": "Gi3/2",
+        "last_move": -1.0,
+        "mac": "0C:FF:FE:E4:6B:0E",
+        "moves": -1,
+        "static": false,
+        "vlan": 1
+    },
+    {
+        "active": true,
+        "interface": "Gi3/3",
+        "last_move": -1.0,
+        "mac": "5E:20:80:17:F0:0D",
+        "moves": -1,
+        "static": false,
+        "vlan": 1
+    }
+]
